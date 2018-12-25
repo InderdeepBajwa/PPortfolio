@@ -1,0 +1,23 @@
+{
+	"title" : "Experience",
+	"experience" : [
+		{
+			"timeperiod" : "September 2018 - Present",
+			"jobtitle" : "Microsoft Student Partner",
+			"company" : "Microsoft - Riddle & Bloom",
+			"description" : "Being a middleman between Microsoft and the campus, I'm rad organizing workshops, tutorials, and promoting cloud computing."
+		},
+		{
+			"timeperiod" :"August 2018 - Present",
+			"jobtitle" : "Web Developer & Assistant Content Administrator",
+			"company" : "SUNY Fredonia",
+			"description" : "Developing astonishing front-end designs with organized content for the SUNY Fredonia School of Business, and SUNY Fredonia School of Computer & Information Sciences"
+		},
+		{
+			"timeperiod" :"January 2018 - Present",
+			"jobtitle" : "Teaching Assistant & Lab Proctor",
+			"company" : "SUNY Fredonia",
+			"description" : "Teaching Assistant for Introduction to Computer Science, and Information Systems. Tutor of Computer Science and Information Technology at University's Carnhan-Jackson Learning Center"
+		}
+	]
+}

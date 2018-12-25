@@ -1,0 +1,9 @@
+{
+	"title" : "Skills",
+	"skills" : {
+		"C, C++, C#, Python, Golang, JavaScript, Kotlin" : "90",
+		"PyTorch, OpenCV, TensorFlow, Kaldi" : "80",
+		"Azure, AWS, Parse, Firebase, Hugo, Gatsbyjs, GraphQL" : "70",
+		"Adobe: After Effects, Photoshop" : "87"
+	}
+}

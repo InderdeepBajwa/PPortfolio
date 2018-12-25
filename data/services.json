@@ -1,0 +1,15 @@
+{
+	"title" : "My Interests",
+	"services" : [
+		{
+			"icon" : "pencil-ruler",
+			"title" : "Web & Software Programming",
+			"description" : "I love developing static generated website CMS, font-end, and JS based webapps. "
+		},
+		{
+			"icon" : "pen-nib",
+			"title" : "Researching & Publishing",
+			"description" : "My current research interests include Computer Vision, Machine Learning, and Algorithms. "
+		}
+	]
+}
